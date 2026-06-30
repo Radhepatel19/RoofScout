@@ -1,0 +1,12 @@
+-- Sample activities to log:
+-- 'property_viewed'
+-- 'property_saved'
+-- 'property_unsaved'
+-- 'enquiry_sent'
+-- 'profile_updated'
+-- 'document_uploaded'
+-- 'property_listed'
+-- 'property_edited'
+-- 'login'
+-- 'logout'
+-- 'search_performed'
